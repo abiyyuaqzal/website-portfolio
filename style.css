@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(255, 244, 230);
+}
+
+.profile-picture {
+  object-fit: cover;
+  border: solid 3px white;
+}
+
+#projects {
+  background-color: #ffc107;
+}
+
+section {
+  padding-top: 5rem;
+}
